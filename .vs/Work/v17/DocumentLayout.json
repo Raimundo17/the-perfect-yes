@@ -15,10 +15,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\blog.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:blog.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -40,7 +36,7 @@
               "RelativeDocumentMoniker": "guest.html",
               "ToolTip": "C:\\Work\\guest.html",
               "RelativeToolTip": "guest.html",
-              "ViewState": "AgIAALQAAAAAAAAAAAAAANEAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAJsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-07-15T21:37:15.441Z",
               "EditorCaption": ""
@@ -48,19 +44,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "blog.html",
-              "DocumentMoniker": "C:\\Work\\blog.html",
-              "RelativeDocumentMoniker": "blog.html",
-              "ToolTip": "C:\\Work\\blog.html",
-              "RelativeToolTip": "blog.html",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-07-15T21:15:03.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "example.cs",
               "DocumentMoniker": "C:\\Work\\example.cs",
               "RelativeDocumentMoniker": "example.cs",
@@ -92,7 +75,7 @@
               "RelativeDocumentMoniker": "about-us.html",
               "ToolTip": "C:\\Work\\about-us.html",
               "RelativeToolTip": "about-us.html",
-              "ViewState": "AgIAAKgAAAAAAAAAAAAAAK4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAK4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-06-13T17:17:45.93Z",
               "EditorCaption": ""
