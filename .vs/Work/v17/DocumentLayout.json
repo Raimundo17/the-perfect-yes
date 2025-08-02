@@ -22,8 +22,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,7 +36,7 @@
               "RelativeDocumentMoniker": "about-us.html",
               "ToolTip": "C:\\Work\\about-us.html",
               "RelativeToolTip": "about-us.html",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHMAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAwHMAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-08-02T21:07:30.028Z",
               "EditorCaption": ""
