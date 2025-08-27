@@ -12,7 +12,7 @@
 	<meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
 	<meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
 	<meta name="author" content="FREEHTML5.CO" />
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
+
   <!-- 
 	//////////////////////////////////////////////////////
 
@@ -64,10 +64,12 @@
 	<!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
+
 	</head>
 	<body>
 		<div id="fh5co-wrapper">
 			<div id="fh5co-page">
+
 				<div class="fh5co-hero" data-section="home">
 					<div class="fh5co-overlay"></div>
 					<div class="fh5co-cover text-center" data-stellar-background-ratio="0.5" style="background-image: url(images/cover_bg_1.jpg);">
@@ -77,7 +79,7 @@
 									<div class="col-md-10 col-md-offset-1">
 										<div class="animate-box">
 											<h1>Nuptial</h1>
-											<h2>Our Guest</h2>
+											<h2>Our Gallery</h2>
 										</div>
 									</div>
 								</div>
@@ -85,6 +87,7 @@
 						</div>
 					</div>
 				</div>
+
 				<header id="fh5co-header-section" class="sticky-banner">
 					<div class="container">
 						<div class="nav-header">
@@ -115,48 +118,81 @@
 						</div>
 					</div>
 				</header>
+
+				<!-- end:header-top -->
+
+				<div id="fh5co-gallery">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
+								<h2>Portfolio</h2>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-4">
+								<div class="gallery animate-box">
+									<a class="gallery-img image-popup image-popup" href="images/gallery-1.jpg"><img src="images/gallery-1.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co"></a>
+								</div>
+								<div class="gallery animate-box">
+									<a class="gallery-img image-popup" href="images/gallery-7.jpg"><img src="images/gallery-7.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co"></a>
+								</div>
+							</div>
+							<div class="col-md-4">
+								<div class="gallery animate-box">
+									<a class="gallery-img image-popup" href="images/gallery-6.jpg"><img src="images/gallery-6.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co"></a>
+								</div>
+								<div class="gallery animate-box">
+									<a class="gallery-img image-popup" href="images/gallery-2.jpg"><img src="images/gallery-2.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co"></a>
+								</div>
+								<div class="gallery animate-box">
+									<a class="gallery-img image-popup" href="images/gallery-5.jpg"><img src="images/gallery-5.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co"></a>
+								</div>
+							</div>
+							<div class="col-md-4">
+								<div class="gallery animate-box">
+									<a class="gallery-img image-popup" href="images/gallery-3.jpg"><img src="images/gallery-3.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co"></a>
+								</div>
+								<div class="gallery animate-box">
+									<a class="gallery-img image-popup" href="images/gallery-4.jpg"><img src="images/gallery-4.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co"></a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
 				<div id="fh5co-started" style="background-image:url(images/cover_bg_2.jpg);" data-stellar-background-ratio="0.5">
 					<div class="overlay"></div>
 					<div class="container">
 						<div class="row animate-box">
 							<div class="col-md-8 col-md-offset-2 text-center heading-section">
-								<h2>Personaliza o teu pacote</h2>
-								<p>Fala connosco como imaginas o teu pedido!</p>
+								<h2>Are You Attending?</h2>
+								<p>Please Fill-up the form to notify you that you're attending. Thanks.
 							</div>
 						</div>
 						<div class="row animate-box">
-							<div class="col-md-6 col-md-offset-3">
-								<form>
-									<div class="form-group">
-										<label for="name" class="sr-only">Nome</label>
-										<input type="text" class="form-control" id="name" placeholder="Nome">
+							<div class="col-md-10 col-md-offset-1">
+								<form class="form-inline">
+									<div class="col-md-4 col-sm-4">
+										<div class="form-group">
+											<label for="name" class="sr-only">Name</label>
+											<input type="name" class="form-control" id="name" placeholder="Name">
+										</div>
 									</div>
-									<div class="form-group">
-										<label for="email" class="sr-only">Email</label>
-										<input type="email" class="form-control" id="email" placeholder="Email">
+									<div class="col-md-4 col-sm-4">
+										<div class="form-group">
+											<label for="email" class="sr-only">Email</label>
+											<input type="email" class="form-control" id="email" placeholder="Email">
+										</div>
 									</div>
-									<div class="form-group">
-										<label for="contact" class="sr-only">Contacto</label>
-										<input type="tel" class="form-control" id="contact" placeholder="Contacto">
+									<div class="col-md-4 col-sm-4">
+										<button type="submit" class="btn btn-primary btn-block">I am Attending</button>
 									</div>
-									<div class="form-group">
-										<label for="eventDate" class="sr-only">Data do evento</label>
-										<input type="text" class="form-control" id="eventDate" placeholder="Selecione a data e hora">
-									</div>
-									<div class="form-group">
-										<label for="budget" class="sr-only">Budget</label>
-										<input type="number" class="form-control" id="budget" placeholder="Budget">
-									</div>
-									<div class="form-group">
-										<label for="message" class="sr-only">Mensagem</label>
-										<textarea class="form-control" id="message" placeholder="O que tens em mente para a tua proposta?" rows="8"></textarea>
-									</div>
-									<button type="submit" class="btn btn-primary btn-block">Confirmar</button>
 								</form>
 							</div>
 						</div>
 					</div>
 				</div>
+
 				<footer>
 					<div id="footer">
 						<div class="container">
@@ -182,21 +218,15 @@
 
 
 			</div>
-			<!-- END fh5co-page -->
+	<!-- END fh5co-page -->
 
-		</div>
-		<!-- END fh5co-wrapper -->
-		<!-- Google Map -->
-		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCefOgb1ZWqYtj7raVSmN4PL2WkTrc-KyA&sensor=false"></script>
-		<!-- jQuery -->
-		<script src="dist/scripts.min.js"></script>
-		<script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
-		<script>
-			flatpickr("#eventDate", {
-				enableTime: true,
-				dateFormat: "Y-m-d H:i",
-			});
-		</script>
+	</div>
+	<!-- END fh5co-wrapper -->
+
+	<!-- Google Map -->
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCefOgb1ZWqYtj7raVSmN4PL2WkTrc-KyA&sensor=false"></script>
+	<!-- jQuery -->
+	<script src="dist/scripts.min.js"></script>
 	</body>
 </html>
 
