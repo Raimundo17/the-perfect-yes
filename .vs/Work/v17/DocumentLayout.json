@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "pacotenamoro.html",
-              "DocumentMoniker": "C:\\Work\\pacotenamoro.html",
-              "RelativeDocumentMoniker": "pacotenamoro.html",
-              "ToolTip": "C:\\Work\\pacotenamoro.html",
-              "RelativeToolTip": "pacotenamoro.html",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAD4AAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-12-10T19:09:49.864Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -41,9 +28,22 @@
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Work\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAEAAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAGEAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-07-16T21:44:36.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pacotenamoro.html",
+              "DocumentMoniker": "C:\\Work\\pacotenamoro.html",
+              "RelativeDocumentMoniker": "pacotenamoro.html",
+              "ToolTip": "C:\\Work\\pacotenamoro.html",
+              "RelativeToolTip": "pacotenamoro.html",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-10T19:09:49.864Z",
               "EditorCaption": ""
             }
           ]
