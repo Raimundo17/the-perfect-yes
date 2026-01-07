@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Work\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\momentosmagicos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:momentosmagicos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\pacotecasamento.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pacotecasamento.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\pacotenamoro.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pacotenamoro.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\pacotecacatesouro.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pacotecacatesouro.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\pacotecasamento.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pacotecasamento.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,6 +31,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "momentosmagicos.html",
+              "DocumentMoniker": "C:\\Work\\momentosmagicos.html",
+              "RelativeDocumentMoniker": "momentosmagicos.html",
+              "ToolTip": "C:\\Work\\momentosmagicos.html",
+              "RelativeToolTip": "momentosmagicos.html",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAwHMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-07T21:58:52.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pacotecasamento.html",
+              "DocumentMoniker": "C:\\Work\\pacotecasamento.html",
+              "RelativeDocumentMoniker": "pacotecasamento.html",
+              "ToolTip": "C:\\Work\\pacotecasamento.html",
+              "RelativeToolTip": "pacotecasamento.html",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-07T21:58:30.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pacotenamoro.html",
+              "DocumentMoniker": "C:\\Work\\pacotenamoro.html",
+              "RelativeDocumentMoniker": "pacotenamoro.html",
+              "ToolTip": "C:\\Work\\pacotenamoro.html",
+              "RelativeToolTip": "pacotenamoro.html",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-07T21:57:54.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Work\\index.html",
               "RelativeDocumentMoniker": "index.html",
@@ -39,45 +78,6 @@
               "ViewState": "AgIAAH4AAAAAAAAAAAAAAHcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-01-07T21:57:05.234Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "pacotecacatesouro.html",
-              "DocumentMoniker": "C:\\Work\\pacotecacatesouro.html",
-              "RelativeDocumentMoniker": "pacotecacatesouro.html",
-              "ToolTip": "C:\\Work\\pacotecacatesouro.html",
-              "RelativeToolTip": "pacotecacatesouro.html",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGwAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-01-07T21:54:52.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "pacotecasamento.html",
-              "DocumentMoniker": "C:\\Work\\pacotecasamento.html",
-              "RelativeDocumentMoniker": "pacotecasamento.html",
-              "ToolTip": "C:\\Work\\pacotecasamento.html",
-              "RelativeToolTip": "pacotecasamento.html",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGoAAACBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-01-07T21:47:21.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "pacotenamoro.html",
-              "DocumentMoniker": "C:\\Work\\pacotenamoro.html",
-              "RelativeDocumentMoniker": "pacotenamoro.html",
-              "ToolTip": "C:\\Work\\pacotenamoro.html",
-              "RelativeToolTip": "pacotenamoro.html",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAGgAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-01-07T21:45:55.567Z",
               "EditorCaption": ""
             }
           ]
