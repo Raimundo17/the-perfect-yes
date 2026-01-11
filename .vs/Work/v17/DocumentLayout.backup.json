@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Work\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\pacotehistorianosdois.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pacotehistorianosdois.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\momentosmagicos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:momentosmagicos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\pacotecacatesouro.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -21,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\piqueniquesonhos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:piqueniquesonhos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\momentosmagicos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:momentosmagicos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "momentosmagicos.html",
               "DocumentMoniker": "C:\\Work\\momentosmagicos.html",
               "RelativeDocumentMoniker": "momentosmagicos.html",
@@ -47,52 +47,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "pacotehistorianosdois.html",
               "DocumentMoniker": "C:\\Work\\pacotehistorianosdois.html",
               "RelativeDocumentMoniker": "pacotehistorianosdois.html",
               "ToolTip": "C:\\Work\\pacotehistorianosdois.html",
               "RelativeToolTip": "pacotehistorianosdois.html",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHYAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAIsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-01-11T20:13:08.005Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "piqueniquesonhos.html",
               "DocumentMoniker": "C:\\Work\\piqueniquesonhos.html",
               "RelativeDocumentMoniker": "piqueniquesonhos.html",
               "ToolTip": "C:\\Work\\piqueniquesonhos.html",
               "RelativeToolTip": "piqueniquesonhos.html",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHYAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-01-11T20:02:27.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Work\\index.html",
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Work\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAJAAAAAAAAAAAAAAAK4AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAAJYAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-01-11T19:48:28.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "pacotecacatesouro.html",
               "DocumentMoniker": "C:\\Work\\pacotecacatesouro.html",
               "RelativeDocumentMoniker": "pacotecacatesouro.html",
               "ToolTip": "C:\\Work\\pacotecacatesouro.html",
               "RelativeToolTip": "pacotecacatesouro.html",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAAAIEAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAGMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-01-11T19:44:22.756Z",
               "EditorCaption": ""
