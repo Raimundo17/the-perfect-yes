@@ -22,6 +22,16 @@ body {
   overflow-x: hidden;
 }
 
+.texto-poetico {
+    line-height: 1.8;
+    letter-spacing: 0.3px;
+    margin-bottom: 24px;
+}
+
+.titulo {
+    margin-bottom: 32px;
+}
+
 body.fh5co-offcanvas {
   overflow: hidden;
 }
