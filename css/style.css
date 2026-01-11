@@ -30,6 +30,13 @@ body {
     font-weight: 400;
 }
 
+.texto-justificativo {
+    font-size: 1.05rem;
+    line-height: 1.7;
+    opacity: 0.85;
+    max-width: 720px;
+}
+
 .titulo {
     margin-bottom: 32px;
 }
