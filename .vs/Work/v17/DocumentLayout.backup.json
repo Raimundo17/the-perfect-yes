@@ -3,44 +3,12 @@
   "WorkspaceRootPath": "C:\\Work\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\portfolio.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:portfolio.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\piqueniquesonhos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:piqueniquesonhos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\pedidonamoro.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pedidonamoro.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\pacotesurpresa.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pacotesurpresa.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\pacotehistorianosdois.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pacotehistorianosdois.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\pacotecacatesouro.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pacotecacatesouro.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\momentosmagicos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:momentosmagicos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\contacto.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contacto.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\blog.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:blog.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\about-us.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:about-us.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\pedidonamoro.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pedidonamoro.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -59,144 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "portfolio.html",
-              "DocumentMoniker": "C:\\Work\\portfolio.html",
-              "RelativeDocumentMoniker": "portfolio.html",
-              "ToolTip": "C:\\Work\\portfolio.html",
-              "RelativeToolTip": "portfolio.html",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAEIAAADTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-01-11T18:19:31.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "pedidonamoro.html",
-              "DocumentMoniker": "C:\\Work\\pedidonamoro.html",
-              "RelativeDocumentMoniker": "pedidonamoro.html",
-              "ToolTip": "C:\\Work\\pedidonamoro.html",
-              "RelativeToolTip": "pedidonamoro.html",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAEQAAADTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-01-11T18:19:19.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "pacotesurpresa.html",
-              "DocumentMoniker": "C:\\Work\\pacotesurpresa.html",
-              "RelativeDocumentMoniker": "pacotesurpresa.html",
-              "ToolTip": "C:\\Work\\pacotesurpresa.html",
-              "RelativeToolTip": "pacotesurpresa.html",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAEQAAADTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-01-11T18:19:11.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "pacotecacatesouro.html",
-              "DocumentMoniker": "C:\\Work\\pacotecacatesouro.html",
-              "RelativeDocumentMoniker": "pacotecacatesouro.html",
-              "ToolTip": "C:\\Work\\pacotecacatesouro.html",
-              "RelativeToolTip": "pacotecacatesouro.html",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAEQAAADTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-01-11T18:18:52.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "pacotehistorianosdois.html",
-              "DocumentMoniker": "C:\\Work\\pacotehistorianosdois.html",
-              "RelativeDocumentMoniker": "pacotehistorianosdois.html",
-              "ToolTip": "C:\\Work\\pacotehistorianosdois.html",
-              "RelativeToolTip": "pacotehistorianosdois.html",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEQAAADTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-01-11T18:18:51.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "momentosmagicos.html",
               "DocumentMoniker": "C:\\Work\\momentosmagicos.html",
               "RelativeDocumentMoniker": "momentosmagicos.html",
               "ToolTip": "C:\\Work\\momentosmagicos.html",
               "RelativeToolTip": "momentosmagicos.html",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAEQAAADTAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAHoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-01-11T18:18:42.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "contacto.html",
-              "DocumentMoniker": "C:\\Work\\contacto.html",
-              "RelativeDocumentMoniker": "contacto.html",
-              "ToolTip": "C:\\Work\\contacto.html",
-              "RelativeToolTip": "contacto.html",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAGgAAADaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-01-11T18:18:30.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "blog.html",
-              "DocumentMoniker": "C:\\Work\\blog.html",
-              "RelativeDocumentMoniker": "blog.html",
-              "ToolTip": "C:\\Work\\blog.html",
-              "RelativeToolTip": "blog.html",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAGcAAADTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-01-11T18:18:19.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "about-us.html",
-              "DocumentMoniker": "C:\\Work\\about-us.html",
-              "RelativeDocumentMoniker": "about-us.html",
-              "ToolTip": "C:\\Work\\about-us.html",
-              "RelativeToolTip": "about-us.html",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAEQAAADTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-01-11T18:18:07.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Work\\index.html",
-              "RelativeDocumentMoniker": "index.html",
-              "ToolTip": "C:\\Work\\index.html",
-              "RelativeToolTip": "index.html",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAEIAAADwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-01-11T18:17:07.428Z",
+              "WhenOpened": "2026-01-11T18:24:06.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "piqueniquesonhos.html",
-              "DocumentMoniker": "C:\\Work\\piqueniquesonhos.html",
-              "RelativeDocumentMoniker": "piqueniquesonhos.html",
-              "ToolTip": "C:\\Work\\piqueniquesonhos.html",
-              "RelativeToolTip": "piqueniquesonhos.html",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAEQAAADTAAAAAAAAAA==",
+              "Title": "pedidonamoro.html",
+              "DocumentMoniker": "C:\\Work\\pedidonamoro.html",
+              "RelativeDocumentMoniker": "pedidonamoro.html",
+              "ToolTip": "C:\\Work\\pedidonamoro.html",
+              "RelativeToolTip": "pedidonamoro.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-01-11T18:16:36.985Z",
+              "WhenOpened": "2026-01-11T18:24:02.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Work\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Work\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-11T18:23:41.954Z",
               "EditorCaption": ""
             }
           ]
