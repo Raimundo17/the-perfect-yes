@@ -26,6 +26,8 @@ body {
     line-height: 1.8;
     letter-spacing: 0.3px;
     margin-bottom: 24px;
+    font-family: "Montez", cursive;
+    font-weight: 400;
 }
 
 .titulo {
