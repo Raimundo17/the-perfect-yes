@@ -85,6 +85,7 @@
                         <div class="col-md-8 col-md-offset-2 text-center heading-section">
                             <h2>As Nossas Propostas</h2>
                             <p id="dataAtual"></p>
+                            <button onclick="enviarEmail()">Enviar email</button>
                         </div>
                     </div>
                 </div>
@@ -207,6 +208,18 @@
     <script>
         const agora = new Date();
         document.getElementById("dataAtual").innerText = agora;
+    </script>
+    <script>
+        function enviarEmail() {
+            const destinatario = "andreiaabrantes88@gmail.com";
+            const assunto = "Olá";
+            const corpo = "Olá";
+
+            const mailtoLink =
+                `mailto:${destinatario}?subject=${encodeURIComponent(assunto)}&body=${encodeURIComponent(corpo)}`;
+
+            window.location.href = mailtoLink;
+        }
     </script>
 </body>
 </html>
